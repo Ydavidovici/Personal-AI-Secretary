@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*~
+
+# If you are using Jupyter notebooks
+.ipynb_checkpoints
+
+# If you are using Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media
+
+# If you are using Flask
+instance/
+.webassets-cache
+
+# HTML, CSS and JavaScript
+*.log
+logs
+*.dat
+*.tmp
+*.bak
+*.swp
+*.kate-swp
+*.tmproj
+*.sublime-project
+*.sublime-workspace
+.tmtags
+
+# Directories used by popular IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.venv
+
+
+# Python
+.venv/
+*.pyc
+__pycache__/
+db.sqlite3
+*.pyo
+*.pyd
+.Python
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime
+.DS_Store
